@@ -1,4 +1,4 @@
-# Notes App
+# Todo App
 
 ## Description
 
