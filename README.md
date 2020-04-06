@@ -2,7 +2,7 @@
 
 ## Description
 
-JavaScipt todo management application.
+JavaScript todo management application.
 
 ### Deployment
 
