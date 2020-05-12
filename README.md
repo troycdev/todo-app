@@ -1,6 +1,6 @@
 # Todo App
 
-## Description
+### Description
 
 JavaScript todo management application.
 
